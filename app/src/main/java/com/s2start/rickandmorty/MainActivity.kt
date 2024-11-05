@@ -111,7 +111,7 @@ fun ListCharacter() {
 
                     Column (Modifier.padding(start = 10.dp)){
                         Text(
-                            text = "Rick Sanchez C-137",
+                            text = "Rick Sanchez",
                             fontWeight = FontWeight.SemiBold,
                             fontSize = 16.sp
                         )
